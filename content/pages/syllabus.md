@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, work
+  expectations, Communication Intensive (CI) requirements, grading, plagiarism policy,
+  and the schedule of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
